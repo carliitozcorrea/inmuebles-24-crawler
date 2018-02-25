@@ -1,8 +1,7 @@
 # inmuebles-24-crawler
 A Python project created on February 25, 2018, 08:40 am.
 
-###Prerequisites
-You need to install the software and how to install them
+### Prerequisites
 ```
 - python >= 2.7
 - pip or conda
@@ -19,7 +18,7 @@ with conda
 conda install -c conda-forge scrapy
 ```
 
-###Run Script
+### Run Script
 with default page number
 ```
 scrapy crawl sale_cdmx
